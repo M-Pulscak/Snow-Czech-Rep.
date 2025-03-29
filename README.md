@@ -15,14 +15,24 @@ Poté už stačí jen dvojklikem spustit stažený soubor 'Snow_CZ.pbix'
 
 ## Náhledy některých listů
 Denní hodnoty a rekordy
-```
+
+
+
 ![Náhled Denní hodnoty a rekordy](Denní.png)
-```
+
+
+
 Dlouhodobé průměry
-```
+
+
+
 ![Náhled Dlouhodobé průměry](Průměry.png)
-```
+
+
+
+
 Trendy
-```
+
+
+
 ![Náhled Trendy](Trendy.png)
-```
