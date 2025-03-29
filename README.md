@@ -13,6 +13,6 @@ Data pochází z archivu [Českého Hydrometeorologického Ústavu](https://www.
 Ke správné funkci dashboardu je nezbytné mít nainstalovaný MS PowerBI Desktop. Free verze ke stažení ze stránek [Microsoft Store](https://apps.microsoft.com/detail/9ntxr16hnw1t?hl=cs-cz&gl=CZ)
 Poté už stačí jen dvojklikem spustit stažený soubor 'Snow_CZ.pbix'
 
-![Náhled Denní hodnoty a rekordy](Denní.jpg)
-![Náhled Dlouhodobé průměry](Pr§měry.jpg)
-![Náhled Trendy](Trendy.jpg)
+![Náhled Denní hodnoty a rekordy](Denní.png)
+![Náhled Dlouhodobé průměry](Pr§měry.png)
+![Náhled Trendy](Trendy.png)
